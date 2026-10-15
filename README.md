@@ -6,6 +6,7 @@
 [![IndexNow Verified](https://img.shields.io/badge/IndexNow-Verified%20Sync-00ccff?style=flat-square)](https://www.bing.com/indexnow)
 [![Total Domains](https://img.shields.io/badge/Total%20Portfolio-977%20Domains-ffcc00?style=flat-square)](https://automotivegateway.com/ecosystem/)
 [![Interactive Catalog](https://img.shields.io/badge/Live%20Catalog-automotivegateway.com%2Fecosystem-blue?style=flat-square)](https://automotivegateway.com/ecosystem/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-marciopps%2Fawesome--deeptech--architecture-181717?style=flat-square&logo=github)](https://github.com/marciopps/awesome-deeptech-architecture)
 
 ## Table of Contents
 
